@@ -2,6 +2,8 @@
 
 Two small, production-minded n8n workflows you can import in a minute. Both were tested on **n8n 2.47.7**: imported, then run end to end against mocked services (6 scenarios).
 
+📬 **New free workflows by email:** [rasareka.com/n8n](https://rasareka.com/n8n/?ref=github). About one email every two weeks, unsubscribe any time.
+
 | Workflow | What it does | You need |
 |---|---|---|
 | [01 · AI lead reply draft](workflows/01-ai-lead-reply-draft.json) | Scores a website form lead (0–100), writes a personal reply in the lead's language and **saves it to Gmail drafts** for you to send. It also logs every lead to Google Sheets. | OpenAI, Gmail, Google Sheets |
